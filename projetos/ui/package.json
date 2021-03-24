@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "start-storybook -p 6006 -s public",
-    "build": "build-storybook -s public"
+    "build": "build-storybook -s public -o build"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
