@@ -9,6 +9,7 @@
     "styled-components": "5.2.1"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2"
   },
@@ -17,15 +18,16 @@
     "build": "build-storybook -s public -o build"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.15",
-    "@types/node": "^12.0.0",
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
     "@storybook/addon-actions": "^6.1.21",
     "@storybook/addon-essentials": "^6.1.21",
     "@storybook/addon-links": "^6.1.21",
     "@storybook/node-logger": "^6.1.21",
     "@storybook/preset-create-react-app": "^3.1.7",
-    "@storybook/react": "^6.1.21"
+    "@storybook/react": "^6.1.21",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/lodash": "^4.14.168"
   }
 }
