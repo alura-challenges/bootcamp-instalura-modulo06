@@ -7,11 +7,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "@omariosouto/modulo-comum": "*",
+    "@omariosouto/ui": "*",
     "next": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "styled-components": "^5.0.0"
+    "styled-components": "5.2.1"
   },
   "devDependencies": {
     "@types/node": "12.0.12",
