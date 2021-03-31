@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-export default function Button() {
-    return (
-        <button>
-            Botão criado no [@omariosouto/modulo-comum]
-        </button>
-    )
+export default function Button({ children }) {
+  return (
+    <button>
+      {children}
+    </button>
+  )
 }

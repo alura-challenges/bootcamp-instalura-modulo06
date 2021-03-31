@@ -1,7 +1,7 @@
 {
   "name": "@omariosouto/modulo-comum",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "components/Button/index.tsx",
   "license": "MIT",
   "dependencies": {
     "react": "17.0.2",
